@@ -27,10 +27,10 @@ It allows users to perform basic arithmetic operations quickly and efficiently, 
 
 
 calculator
-│
-├── index.html      # Main HTML file
-├── style.css       # CSS styles (if separated)
-└── script.js       # JavaScript functionality (if separated)
+
+index.html      # Main HTML file
+style.css       # CSS styles (if separated)
+script.js       # JavaScript functionality (if separated)
 
 
 ⚙️ Technologies Used :
