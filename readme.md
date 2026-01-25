@@ -26,13 +26,6 @@ It allows users to perform basic arithmetic operations quickly and efficiently, 
 5. Press `DEL` to delete the last entered character.  
 
 
-calculator
-
-index.html      # Main HTML file
-style.css       # CSS styles (if separated)
-script.js       # JavaScript functionality (if separated)
-
-
 ⚙️ Technologies Used :
 
 HTML5 – Structure of the calculator
