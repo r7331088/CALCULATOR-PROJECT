@@ -34,6 +34,10 @@ CSS3 – Styling and layout
 
 JavaScript – Calculator logic and functionality
 
+calculator output :
+
+https://github.com/r7331088/CALCULATOR-PROJECT/blob/main/calculator-output.png
+
 💡 Notes :
 
 The calculator uses JavaScript’s eval() function to compute results.
