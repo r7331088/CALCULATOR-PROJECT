@@ -1,0 +1,57 @@
+/* Center calculator on screen */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #a244e0c3;
+  font-family: Arial;
+}
+
+/* Calculator box styling */
+.calculator {
+  background: #435246;
+  padding: 20px;
+  border-radius: 10px;
+  width: 280px;
+  box-shadow: 10px 10px 15px #0a0a0a;
+  outline: auto;
+}
+
+/* Display input box */
+#display {
+  width: 96%;
+  height: 40px;
+  font-size: 24px;
+  text-align: right;
+  margin-bottom: 15px;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #eae7ea;
+}
+
+/* Button grid layout */
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+/* Common button style */
+button {
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+  background: #56d064;
+}
+
+/* Zero button spans two columns */
+.zero {
+  grid-column: span 2;
+}
